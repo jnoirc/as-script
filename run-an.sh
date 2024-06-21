@@ -1,0 +1,3 @@
+#!/bin/bash
+/usr/local/android-studio/bin/studio.sh
+
