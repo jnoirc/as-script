@@ -26,7 +26,7 @@ sudo mv run-an.sh /usr/local/bin
 4. Run in terminal:
 
 ```
-run-an
+run-an.sh
 
 ```
 
