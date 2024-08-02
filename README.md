@@ -19,7 +19,7 @@ cd as-script
 3. Move:
 
 ```
-sudo mv run-an /usr/local/bin
+sudo mv run-an.sh /usr/local/bin
 
 ```
 
