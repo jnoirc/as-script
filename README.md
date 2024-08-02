@@ -5,8 +5,7 @@
 1. Git clone:
 
 ```
- git clone https://github.com/jnoirc/script-android-studio.git
-```
+ git clone https://github.com/jnoirc/as-script.git```
 
 2. Enter the folder:
 
