@@ -5,7 +5,9 @@
 1. Git clone:
 
 ```
- git clone https://github.com/jnoirc/as-script.git```
+ git clone https://github.com/jnoirc/as-script.git
+
+```
 
 2. Enter the folder:
 
